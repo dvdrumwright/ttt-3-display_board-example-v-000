@@ -5,7 +5,8 @@ puts "   |   |   "
 puts "-----------"
 puts "   |   |   "
 puts "-----------"
-end 
+puts "   |   |   "
+end
 
 
 
