@@ -4,6 +4,9 @@
 puts "A Tic Tac Toe Board"
 end 
 
+def cell 
+[ "", "", "" ]
+end 
 
   
 
